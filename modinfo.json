@@ -1,0 +1,14 @@
+{
+  "author": "wondible",
+  "build": "89755",
+  "category": ["units", "framework", "titans"],
+  "context": "server",
+  "date": "2016/02/17",
+  "description": "Mod support framework. Adds all vanilla ammo to the spatial database.",
+  "display_name": "Weapons Tracking",
+  "forum": null,
+  "identifier": "com.wondible.pa.weapons_tracking",
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+
