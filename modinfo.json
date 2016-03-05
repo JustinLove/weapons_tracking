@@ -3,12 +3,11 @@
   "build": "89755",
   "category": ["units", "framework", "titans"],
   "context": "server",
-  "date": "2016/02/17",
+  "date": "2016/03/05",
   "description": "Mod support framework. Adds all vanilla ammo to the spatial database.",
   "display_name": "Weapons Tracking",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-server-weapons-tracking.71474/",
   "identifier": "com.wondible.pa.weapons_tracking",
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
-
